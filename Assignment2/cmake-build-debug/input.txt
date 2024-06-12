@@ -1,0 +1,9 @@
+8
+Create character fighter Arthur1 100
+Create character fighter Arthur2 100
+Create character fighter Arthur3 100
+Create character wizard Harry 100
+Create item spell Harry pizda 3 Arthur1 Arthur2 Arthur3
+Create item spell Harry pizda2 3 Arthur1 Arthur2 Arthur3
+Cast Harry Arthur1 pizda
+Show spells Harry

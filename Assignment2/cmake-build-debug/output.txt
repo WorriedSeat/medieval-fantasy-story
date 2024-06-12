@@ -1,0 +1,9 @@
+A new fighter came to town, Arthur1.
+A new fighter came to town, Arthur2.
+A new fighter came to town, Arthur3.
+A new wizard came to town, Harry.
+Harry just obtained a new spell called pizda.
+Harry just obtained a new spell called pizda2.
+Harry casts pizda on Arthur1!
+Arthur1 has died...
+pizda2:3 
